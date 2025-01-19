@@ -7,7 +7,7 @@ body {
   }
   
   .header {
-    background-color: #3992f8;
+    background-color: #052953;
     color: #fff;
     padding: 1rem 2rem;
     display: flex;
@@ -122,3 +122,18 @@ h5{
   color: #555;
 }
 
+input{
+  width: 100px;
+  color: #555;
+  border-radius: 18%;
+  border-width: 0ch;
+  border: none;
+  justify-content: centers;
+}
+
+button{
+  background-color: #8ca7f1;
+  border-radius: 18%;
+  border-width: 0cap;
+  justify-content: center;
+}
